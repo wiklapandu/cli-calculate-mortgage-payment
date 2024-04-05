@@ -80,8 +80,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         NumberFormat currency = NumberFormat.getCurrencyInstance();
 
-        boolean programRun = true;
-
         int principal = 0;
 
         boolean validationPrincipal = true;
